@@ -1,5 +1,18 @@
 # TIMER
  Trabajo de TIMER (La finalidad es iniciar el timer, durante 5 segundos mostrar los ms en consola y pausar el timer.)
+ Trabajo de Api (La finalidad es buscar en una Api, una lista de empleados)
+
+## Comandos
+
+Ejecutar el Timer
+```
+npm start Timer
+```
+
+Ejecutar el buscador de API
+```
+npm start Api
+```
  
 ### Pre-requisitos
 
